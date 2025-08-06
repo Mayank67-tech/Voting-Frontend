@@ -1,9 +1,9 @@
 const colors = {
-  primary: "#29a9e7",
-  lightBlue: "#78c4e0",
-  darkBlue: "#18548e",
-  brown: "#9d705a",
-  grayBlue: "#a3bece",
-  navy: "#3e5877",
+  primary: "#1E3A8A",    // Dark blue
+  lightBlue: "#E0F2FE",  // Light blue background
+  navy: "#1E3A8A",       // Navy text
+  success: "#16A34A",    // Green button
+  danger: "#DC2626",     // Red countdown
 };
+
 export default colors;
